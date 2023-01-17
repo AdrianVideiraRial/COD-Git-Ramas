@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Me llamo Adrian Videira Rial");
         System.out.println("Tengo 33 años");
+        System.out.println("Estoy aprendiendo a usar Git en IntelliJ");
     }
 }
